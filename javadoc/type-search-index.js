@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.analyzer_text","l":"AnalyzeApplication"},{"p":"com.example.analyzer_text","l":"Dict"},{"p":"com.example.analyzer_text","l":"DictUtils"},{"p":"com.example.analyzer_text","l":"ReadFilesUtils"},{"p":"com.example.analyzer_text","l":"TableData"}];updateSearchResults();

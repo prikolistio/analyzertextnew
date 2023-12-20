@@ -1,0 +1,47 @@
+[DEBUG] 2023-12-20 22:37:14.005 [main] AnalyzeApplication - Program is running
+[DEBUG] 2023-12-20 22:37:14.204 [JavaFX Application Thread] Dict - Creating dictionary Медицинский
+[DEBUG] 2023-12-20 22:37:14.205 [JavaFX Application Thread] Dict - Filling dictionary Медицинский from file ./testDict/medicalDict.txt
+[DEBUG] 2023-12-20 22:37:14.205 [JavaFX Application Thread] Dict - Creating dictionary Криптография
+[DEBUG] 2023-12-20 22:37:14.206 [JavaFX Application Thread] Dict - Filling dictionary Криптография from file ./testDict/cryptoDict.txt
+[DEBUG] 2023-12-20 22:37:14.206 [JavaFX Application Thread] Dict - Creating dictionary Программирование
+[DEBUG] 2023-12-20 22:37:14.206 [JavaFX Application Thread] Dict - Filling dictionary Программирование from file ./testDict/programmingDict.txt
+[DEBUG] 2023-12-20 22:37:14.207 [JavaFX Application Thread] Dict - Creating dictionary Сети
+[DEBUG] 2023-12-20 22:37:14.207 [JavaFX Application Thread] Dict - Filling dictionary Сети from file ./testDict/networkDict.txt
+[DEBUG] 2023-12-20 22:37:14.208 [JavaFX Application Thread] Dict - Creating dictionary Финансы
+[DEBUG] 2023-12-20 22:37:14.208 [JavaFX Application Thread] Dict - Filling dictionary Финансы from file ./testDict/financeDict.txt
+[DEBUG] 2023-12-20 22:37:14.208 [JavaFX Application Thread] Dict - Creating dictionary Исторический
+[DEBUG] 2023-12-20 22:37:14.208 [JavaFX Application Thread] Dict - Filling dictionary Исторический from file ./testDict/historyDict.txt
+[DEBUG] 2023-12-20 22:37:31.509 [JavaFX Application Thread] ReadFilesUtils - Reading txt file C:\Users\BODHI\Desktop\analyzer_text\testText\cryptoText2.txt
+[DEBUG] 2023-12-20 22:37:31.518 [JavaFX Application Thread] DictUtils - source found in Криптография dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.518 [JavaFX Application Thread] DictUtils - криптографии found in Криптография dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.519 [JavaFX Application Thread] DictUtils - протоколов found in Криптография dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.519 [JavaFX Application Thread] DictUtils - протоколов found in Сети dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.519 [JavaFX Application Thread] DictUtils - криптографические found in Криптография dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.519 [JavaFX Application Thread] DictUtils - алгоритмы found in Криптография dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.519 [JavaFX Application Thread] DictUtils - алгоритмы found in Программирование dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.520 [JavaFX Application Thread] DictUtils - криптографическая found in Криптография dictionary, current value = 3
+[DEBUG] 2023-12-20 22:37:31.521 [JavaFX Application Thread] DictUtils - криптографический found in Криптография dictionary, current value = 4
+[DEBUG] 2023-12-20 22:37:31.521 [JavaFX Application Thread] DictUtils - ключ found in Криптография dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.522 [JavaFX Application Thread] DictUtils - шифрования found in Криптография dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.522 [JavaFX Application Thread] DictUtils - устройство found in Сети dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.523 [JavaFX Application Thread] DictUtils - работы found in Исторический dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.523 [JavaFX Application Thread] DictUtils - ключ found in Криптография dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.523 [JavaFX Application Thread] DictUtils - шифрования found in Криптография dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.523 [JavaFX Application Thread] DictUtils - исключение found in Криптография dictionary, current value = 3
+[DEBUG] 2023-12-20 22:37:31.524 [JavaFX Application Thread] DictUtils - криптографических found in Криптография dictionary, current value = 5
+[DEBUG] 2023-12-20 22:37:31.524 [JavaFX Application Thread] DictUtils - протоколов found in Криптография dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.524 [JavaFX Application Thread] DictUtils - протоколов found in Сети dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.524 [JavaFX Application Thread] DictUtils - организаций found in Медицинский dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.525 [JavaFX Application Thread] DictUtils - странные found in Исторический dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.525 [JavaFX Application Thread] DictUtils - алгоритмы found in Криптография dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.525 [JavaFX Application Thread] DictUtils - алгоритмы found in Программирование dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.525 [JavaFX Application Thread] DictUtils - шифрования found in Криптография dictionary, current value = 3
+[DEBUG] 2023-12-20 22:37:31.525 [JavaFX Application Thread] DictUtils - военными found in Исторический dictionary, current value = 1
+[DEBUG] 2023-12-20 22:37:31.526 [JavaFX Application Thread] DictUtils - органами found in Медицинский dictionary, current value = 2
+[DEBUG] 2023-12-20 22:37:31.526 [JavaFX Application Thread] DictUtils - алгоритмы found in Криптография dictionary, current value = 3
+[DEBUG] 2023-12-20 22:37:31.526 [JavaFX Application Thread] DictUtils - алгоритмы found in Программирование dictionary, current value = 3
+[DEBUG] 2023-12-20 22:37:31.526 [JavaFX Application Thread] DictUtils - исключением found in Криптография dictionary, current value = 4
+[DEBUG] 2023-12-20 22:37:31.527 [JavaFX Application Thread] DictUtils - протокола found in Криптография dictionary, current value = 3
+[DEBUG] 2023-12-20 22:37:31.527 [JavaFX Application Thread] DictUtils - протокола found in Сети dictionary, current value = 3
+[DEBUG] 2023-12-20 22:37:31.527 [JavaFX Application Thread] DictUtils - разработали found in Исторический dictionary, current value = 2
+[DEBUG] 2023-12-20 22:38:54.621 [main] AnalyzeApplication - Exiting program
